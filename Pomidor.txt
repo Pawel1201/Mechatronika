@@ -2,6 +2,7 @@ Pan pomidor wlazł na tyczkę
 I przedrzeźnia ogrodniczkę.
 Jak pan może,
 Panie pomidorze?!
+<<<<<<< HEAD
 
 Groch zzieleniał aż ze złości:
 — Że też nie wstyd jest waszmości!
@@ -12,3 +13,9 @@ Pan pomidor, zawstydzony,
 Cały zrobił się czerwony
 I spadł wprost ze swojej tyczki
 Do koszyczka ogrodniczki.
+
+Rzepa także go zagadnie:
+— Fe! Niedobrze! Fe! Nieładnie!
+Jak pan może,
+Panie pomidorze?!
+
